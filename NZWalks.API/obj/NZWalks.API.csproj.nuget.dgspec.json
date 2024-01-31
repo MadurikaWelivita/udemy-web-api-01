@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj": {}
+    "F:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj": {}
   },
   "projects": {
-    "f:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj": {
+    "F:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj",
+        "projectUniqueName": "F:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj",
         "projectName": "NZWalks.API",
-        "projectPath": "f:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj",
+        "projectPath": "F:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj",
         "packagesPath": "C:\\Users\\Chamika\\.nuget\\packages\\",
-        "outputPath": "f:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\obj\\",
+        "outputPath": "F:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chamika\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
