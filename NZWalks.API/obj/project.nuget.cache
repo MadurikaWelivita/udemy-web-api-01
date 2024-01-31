@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yy5FzFDuSnKVHIqx58CoKFWweETU1QhxNx7r03g165if11V/ZCo9TvrNI3yCKkfRsFMtfhYSSIC2oSovh1G6Pg==",
+  "success": true,
+  "projectFilePath": "f:\\Madurika Welivita\\MyLearnings\\Projects\\UdemyCourses\\WebAPI01\\udemy-web-api-01\\NZWalks.API\\NZWalks.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chamika\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Chamika\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Chamika\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Chamika\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Chamika\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Chamika\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
